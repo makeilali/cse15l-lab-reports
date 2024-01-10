@@ -1,1 +1,1 @@
-Hi, there.
+**Welcome to winter quarter!**
