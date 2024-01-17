@@ -1,7 +1,7 @@
 # cd examples
-
 ![Image](https://github.com/makeilali/cse15l-lab-reports/blob/main/Screenshot%202024-01-16%20at%205.05.59%20PM.png?raw=true)
 ![Image](https://github.com/makeilali/cse15l-lab-reports/blob/main/Screenshot%202024-01-16%20at%205.51.57%20PM.png?raw=true)
+![Image](https://github.com/makeilali/cse15l-lab-reports/blob/main/Screenshot%202024-01-16%20at%206.01.44%20PM.png?raw=true)
 # ls examples
 ![Image](https://github.com/makeilali/cse15l-lab-reports/blob/main/Screenshot%202024-01-16%20at%205.06.05%20PM.png?raw=true)
 ![Image](https://github.com/makeilali/cse15l-lab-reports/blob/main/Screenshot%202024-01-16%20at%205.51.50%20PM.png?raw=true)
