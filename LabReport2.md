@@ -61,6 +61,6 @@ public class ChatServer {
 # Part 2 
 ![image](https://github.com/makeilali/cse15l-lab-reports/blob/main/Screenshot%202024-01-30%20at%203.21.19%20PM.png?raw=true)
 ![image](https://github.com/makeilali/cse15l-lab-reports/blob/main/Screenshot%202024-01-30%20at%203.21.27%20PM.png?raw=true)
-![image](
+![image](https://github.com/makeilali/cse15l-lab-reports/blob/main/Screenshot%202024-01-30%20at%203.22.04%20PM.png?raw=true)
 
 # Part 3
