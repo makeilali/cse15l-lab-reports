@@ -60,7 +60,6 @@ public class ChatServer {
 ```
 # Part 2 
 - ssh public key
-  
 ![image](https://github.com/makeilali/cse15l-lab-reports/blob/main/Screenshot%202024-01-30%20at%203.21.19%20PM.png?raw=true)
 - ssh private key
 ![image](https://github.com/makeilali/cse15l-lab-reports/blob/main/Screenshot%202024-01-30%20at%203.21.27%20PM.png?raw=true)
