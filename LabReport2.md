@@ -69,3 +69,4 @@ public class ChatServer {
 ![image](https://github.com/makeilali/cse15l-lab-reports/blob/main/Screenshot%202024-01-30%20at%203.29.24%20PM.png?raw=true)
 
 # Part 3
+Something I learned in week 2 and 3 are the different uses of commands in a server and how they respond to inputs. ANother thing I learned was running a server through edstem and running a server through another place like vscode and was able to see the differences.
