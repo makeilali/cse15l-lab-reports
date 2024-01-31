@@ -1,12 +1,18 @@
 # Part 1
 ![Image](https://github.com/makeilali/cse15l-lab-reports/blob/main/Screenshot%202024-01-29%20222908.png?raw=true)
-Which methods in your code are called?
-What are the relevant arguments to those methods, and the values of any relevant fields of the class?
-How do the values of any relevant fields of the class change from this specific request? If no values got changed, explain why.
+- Which methods in your code are called?
+  The methods called in my code are handleRequest(URI url) and parseQuery(String query).
+- What are the relevant arguments to those methods, and the values of any relevant fields of the class?
+  The relevant aregument to handleRequest is url and the chatHistory that stores the input of the url. parseQuery helps aid handleRequest.
+- How do the values of any relevant fields of the class change from this specific request? If no values got changed, explain why.
+  chatHistory is updated when the /add-message is ran with inputs.
 ![Image](https://github.com/makeilali/cse15l-lab-reports/blob/main/Screenshot%202024-01-29%20223233.png?raw=true)
-Which methods in your code are called?
-What are the relevant arguments to those methods, and the values of any relevant fields of the class?
-How do the values of any relevant fields of the class change from this specific request? If no values got changed, explain why.
+- Which methods in your code are called?
+  The methods called in my code are handleRequest(URI url) and parseQuery(String query).
+- What are the relevant arguments to those methods, and the values of any relevant fields of the class?
+  The relevant arrguments to parseQuery are query which is the input in the url.
+- How do the values of any relevant fields of the class change from this specific request? If no values got changed, explain why.
+  No values got changed since this method helps aid the chatHistory and handleRequest.
 ```
 import java.io.IOException;
 import java.net.URI;
