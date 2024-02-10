@@ -12,7 +12,7 @@
 - What are the relevant arguments to those methods, and the values of any relevant fields of the class?
   - The relevant arrguments to ```parseQuery``` are query which is the input in the url.
 - How do the values of any relevant fields of the class change from this specific request? If no values got changed, explain why.
-  - No values got changed since this method helps aid the ```chatHistory``` and ```handleRequest```.
+  - ```chatHistory``` got changed by the use of ```/add-message```since this method helps aid the ```chatHistory``` and ```handleRequest```.
 ```
 import java.io.IOException;
 import java.net.URI;
