@@ -4,4 +4,4 @@
 
 [LabReport2](https://github.com/makeilali/cse15l-lab-reports/blob/main/LabReport2.md)
 
-[LabReport3]()
+[LabReport3](https://github.com/makeilali/cse15l-lab-reports/blob/main/LabReport3.md)
