@@ -29,7 +29,9 @@ static int[] reversed(int[] arr) {
 	}
   ```
 - The Symptom
+  
 ![image](https://github.com/makeilali/cse15l-lab-reports/blob/main/Screenshot%202024-02-13%20153331.png?raw=true)
+
 - Before code change
 ```
 static int[] reversed(int[] arr) {
