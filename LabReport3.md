@@ -52,5 +52,6 @@ static int[] reversed(int[] arr) {
     return newArray;
   }
 ```
+-The fix in the code helped adrress the issue in why the the test case was failing is because the code was trying to reverse the ```newArray``` rather than the ```arr```. So after making the change the code would reverse the original ```arr``` into the ```newArray``` and return the ```newArray``` instead of the original ```arr```, which allowed for the test cases to pass.
 # Part 2
 
