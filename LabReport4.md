@@ -12,3 +12,5 @@
 ![image](https://github.com/makeilali/cse15l-lab-reports/blob/main/Screenshot%202024-02-27%20at%205.12.16%20PM.png?raw=true)
 - Keys pressed:``(Ctrl-C) (Ctrl-V) <Enter>`` copied from git hub and pasted it into the terminal.
 ![image](https://github.com/makeilali/cse15l-lab-reports/blob/main/Screenshot%202024-02-27%20at%206.17.42%20PM.png?raw=true)
+- Keys pressed: typed ``git add .`` in the termianl ``<Enter>``, typed``git commit -m "fixed bugs"`` in the terminal ``<Enter>``, typed ``git push`` ``(Ctrl-C) (Crtl-V) <Enter>`` from git hub.
+![image](https://github.com/makeilali/cse15l-lab-reports/blob/main/Screenshot%202024-03-11%20at%202.49.41%20PM.png?raw=true)
