@@ -24,3 +24,4 @@ After adding print statements as suggested by the TA, I noticed that the values 
 
 
 # Part 2 - Reflection
+Something I learned from my lab experience during th esecond half of this quarter was the grading script that we used. That gave me a perspective from a student on how my assignments are graded, which was very intruiging. That helped me learn the different areas that affect the script based on the effrctiveness could be changed by the little things.
