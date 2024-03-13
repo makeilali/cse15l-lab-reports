@@ -1,14 +1,14 @@
 # Part 1 - Debugging Scenario
 Anonymous:
 
-Hey everyone,
+Hey,
 
 I'm having trouble with my Java program. Whenever I run it, I'm getting some strange output that I can't figure out. Here's a screenshot showing what I'm seeing:
 
 ![image](https://github.com/makeilali/cse15l-lab-reports/blob/main/Screenshot%202024-03-12%20at%205.44.26%20PM.png?raw=true)
 ![image](https://github.com/makeilali/cse15l-lab-reports/blob/main/Screenshot%202024-03-12%20at%205.44.32%20PM.png?raw=true)
 
-It looks like the program is printing numbers that are much larger than expected. My guess is that there might be an issue with the sum logic, but I'm not entirely sure. Any help would be appreciated!
+It looks like the program is printing numbers that are much larger than expected. My guess is that there might be an issue with the sum logic, but I'm not entirely sure. Thoughts?
 
 Response from TA:
 
